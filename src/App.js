@@ -7,7 +7,7 @@ function App() {
   return (
     <Grid container>
       <Navbar />
-      <Outlet />
+      <Outlet />s
     </Grid>
   );
 }
